@@ -1,0 +1,5 @@
+{
+  "API_PORT": 5173,
+  "API_PROTOCOL": "https",
+  "API_HOST": "192.168.1.103"
+}
