@@ -1,5 +1,10 @@
-api_publish/Logs
+# Logs
+api_publish/Logs/
+face_recognition_system/*.log
+passport_scanner/logs/
+
+# Certificates
 api_publish/openiddict.pfx
-face_recognition_system/face_recognition.log
-passport_scanner/logs/mrz-reader.log
+
+# Uploads
 api_publish/wwwroot/Uploads/
