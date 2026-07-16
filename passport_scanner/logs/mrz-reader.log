@@ -1,5 +1,0 @@
-2026-07-16 11:32:12,507 INFO __main__ Starting MRZ Reader 2.3.0 host=127.0.0.1 port=8767 frozen=True
-2026-07-16 11:32:12,519 INFO __main__ MRZ processor ready model=C:\Users\Behnam\Projects\MokebyarLocal\MokebyarAi\passport_scanner\dist\MRZReader\_internal\tesseract\tessdata\mrz.traineddata provider=cpu
-2026-07-16 11:32:12,945 INFO processor MRZ processed verified=True total_ms=209.43 ocr_ms=195.63
-2026-07-16 11:34:30,155 INFO __main__ Starting MRZ Reader 2.3.0 host=0.0.0.0 port=8000 frozen=True
-2026-07-16 11:34:30,166 INFO __main__ MRZ processor ready model=C:\Users\Behnam\Projects\MokebyarLocal\MokebyarAi\passport_scanner\dist\MRZReader\_internal\tesseract\tessdata\mrz.traineddata provider=cpu
