@@ -1,0 +1,44 @@
+2026-07-11 23:49:54 [INFO] Checking available execution providers...
+2026-07-11 23:49:54 [INFO] Available providers: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-11 23:49:54 [INFO] GPU detected: DmlExecutionProvider -> using GPU acceleration
+2026-07-11 23:49:55 [INFO] Model ready! Active provider: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-11 23:49:55 [INFO] DB retrain model ready (separate instance).
+2026-07-11 23:49:55 [INFO] ===== System is updating face data, please wait... =====
+2026-07-11 23:49:55 [ERROR] Database not found at ../../MokebyarApi.db
+2026-07-11 23:49:55 [INFO] ===== System update interrupted =====
+2026-07-11 23:49:56 [INFO] Connecting to DroidCam stream at http://192.168.1.106:4747/video ...
+2026-07-16 10:09:54 [INFO] Checking available execution providers...
+2026-07-16 10:09:54 [INFO] Available providers: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-16 10:09:54 [INFO] GPU detected: DmlExecutionProvider -> using GPU acceleration
+2026-07-16 10:09:56 [INFO] Model ready! Active provider: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-16 10:09:56 [INFO] DB retrain model ready (separate instance).
+2026-07-16 10:09:56 [INFO] ===== System is updating face data, please wait... =====
+2026-07-16 10:09:56 [ERROR] Database not found at ../../MokebyarApi.db
+2026-07-16 10:09:56 [INFO] ===== System update interrupted =====
+2026-07-16 10:09:56 [INFO] Connecting to DroidCam stream at http://192.168.1.106:4747/video ...
+2026-07-16 10:10:19 [WARNING] Camera opened but no frame received from http://192.168.1.106:4747/video
+2026-07-16 10:10:19 [INFO] Attempting camera reconnection...
+2026-07-16 10:10:19 [INFO] Reconnecting in 2s (attempt 1)
+2026-07-16 10:10:22 [INFO] Camera connected: http://192.168.1.106:4747/video
+2026-07-16 10:11:42 [WARNING] Frame read failed — attempting reconnect
+2026-07-16 10:11:42 [INFO] Attempting camera reconnection...
+2026-07-16 10:11:42 [INFO] Reconnecting in 2s (attempt 1)
+2026-07-16 10:11:45 [INFO] Camera connected: http://192.168.1.106:4747/video
+2026-07-16 10:11:56 [INFO] Starting scheduled background retrain...
+2026-07-16 10:11:56 [INFO] ===== System is updating face data, please wait... =====
+2026-07-16 10:11:56 [ERROR] Database not found at ../../MokebyarApi.db
+2026-07-16 10:11:56 [INFO] ===== System update interrupted =====
+2026-07-16 10:12:55 [WARNING] Frame read failed — attempting reconnect
+2026-07-16 10:12:55 [INFO] Attempting camera reconnection...
+2026-07-16 10:12:55 [INFO] Reconnecting in 2s (attempt 1)
+2026-07-16 13:05:37 [INFO] Checking available execution providers...
+2026-07-16 13:05:37 [INFO] Available providers: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-16 13:05:37 [INFO] GPU detected: DmlExecutionProvider -> using GPU acceleration
+2026-07-16 13:05:39 [INFO] Model ready! Active provider: ['DmlExecutionProvider', 'CPUExecutionProvider']
+2026-07-16 13:05:41 [INFO] DB retrain model ready (separate instance).
+2026-07-16 13:05:41 [INFO] ===== System is updating face data, please wait... =====
+2026-07-16 13:05:41 [INFO] Found 0 image records in database.
+2026-07-16 13:05:41 [INFO] Successfully loaded and encoded 0 faces into memory.
+2026-07-16 13:05:41 [INFO] ===== Face data updated. System is ready for operation. =====
+2026-07-16 13:05:41 [INFO] Connecting to DroidCam stream at http://192.168.1.106:4747/video ...
+2026-07-16 13:05:42 [INFO] Camera connected: http://192.168.1.106:4747/video
