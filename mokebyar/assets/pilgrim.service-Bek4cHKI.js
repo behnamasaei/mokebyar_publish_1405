@@ -1,0 +1,1 @@
+import{a as r}from"./index-C5e-MGaL.js";const t={getList(p){return r.get("/api/app/pilgrim",{params:p})},getById(p){return r.get(`/api/app/pilgrim/${p}`)},create(p){return r.post("/api/app/pilgrim",p)},update(p,e){return r.put(`/api/app/pilgrim/${p}`,e)},upsert(p){return r.post("/api/app/pilgrim/upsert",p)},delete(p){return r.delete(`/api/app/pilgrim/${p}`)}};export{t as P};
