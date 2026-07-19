@@ -8,3 +8,5 @@ api_publish/openiddict.pfx
 
 # Uploads
 api_publish/wwwroot/Uploads/
+
+face_recognition_system/debug_db_images
